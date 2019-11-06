@@ -3,7 +3,7 @@ const btcPrice = () =>
     .then(res => res.json())
     .then(myJson => {
       let GBPAmount = myJson["bpi"]["BGN"]["rate"];
-      document.getElementById("btc-price").append(`{BGNAmount}лева`);
+      document.getElementById("btc-price").append(`${BGNAmount}лева`);
     })
     .catch(err => console.log(err));
 
