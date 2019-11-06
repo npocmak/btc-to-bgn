@@ -1,7 +1,7 @@
-# bitcoin-GBP-checker
+# btc-to-bgn
 
-simple price checker for Bitcoin in GBP (£)
+simple price checker for Bitcoin in BGN (лева)
 
 # Instructions
 
-- open index.html and the price in £ will appear
+- open index.html and the price in лв. will appear
