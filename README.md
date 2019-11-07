@@ -8,11 +8,12 @@
 
 # Кредити
 
-оригинален код:
-@itsmarkodowd
+оригинален код: @itsmarkodowd
 
-API: 
+# API
+
 coindesk.com
 
-Демо: 
+# Демо
+
 https://htmlpreview.github.io/?https://github.com/npocmak/btc-to-bgn/blob/master/index.html
