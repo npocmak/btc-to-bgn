@@ -1,6 +1,6 @@
 # btc-to-bgn
 
-simple price checker for Bitcoin in BGN (лева)
+simple price checker for Bitcoin in BGN (Бъгларски лев)
 
 # Instructions
 
