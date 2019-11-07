@@ -8,11 +8,11 @@
 
 # Кредити
 
-оригинален код: @itsmarkodowd
+оригинален код: https://itsmarkodowd.github.io/
 
 # API
 
-coindesk.com
+coindesk.com, оpenexchangerates.org
 
 # Демо
 
