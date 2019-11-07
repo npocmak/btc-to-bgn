@@ -1,7 +1,15 @@
 # btc-to-bgn
 
-simple price checker for Bitcoin in BGN (Бъгларски лев)
+Прост Bitcoin тикер за цената в Бъгларски лева
 
-# Instructions
+# Инструкции
 
-- open index.html and the price in лв. will appear
+- отворете index.html и ще видите цената в лв.
+
+# Кредити
+
+оригинален код:
+@itsmarkodowd
+
+API: 
+coindesk.com
