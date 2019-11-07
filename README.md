@@ -13,3 +13,6 @@
 
 API: 
 coindesk.com
+
+Демо: 
+https://htmlpreview.github.io/?https://github.com/npocmak/btc-to-bgn/blob/master/index.html
